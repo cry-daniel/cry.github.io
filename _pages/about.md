@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 即将在上海交通大学开始博士生活，导师为[梁晓峣](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=89)教授，应该会继续研究Arch，要努力做出有价值的工作ε=( o｀ω′)ノ
 
-平时也会在[知乎](https://www.zhihu.com/people/zi-you-zhi-yi-1-13)上写写分享，欢迎大家有空去看看哦😄
+平时也会在[知乎](https://www.zhihu.com/people/zi-you-zhi-yi-1-13)上写分享，欢迎大家有空去看看哦😄
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
