@@ -2,7 +2,7 @@
 #   type: map
 #   contents:
 #     - name: Full Name
-#       value: 陈睿阳
+#       value: Ruiyang Chen
 #     - name: Date of Birth
 #       value: 23rd April 2002
 #     - name: Languages
@@ -11,22 +11,7 @@
 # - title: Education
 #   type: time_table
 #   contents:
-#     - title: 少年班（预科）
-#       institution: 苏州中学、西安交通大学
-#       year: 2017
-#       description:
-#         - 苏州中学完成预科一年级学习.
-#         - 西安交通大学完成预科二年级学习.
-#         # - title: Description 3.
-#         #   contents:
-#         #     - Sub-description 1.
-#         #     - Sub-description 2.
-#     - title: 本科
-#       institution: 西安交通大学，西安，陕西
-#       year: 1900
-#       description:
-#         - 本科专业为人工智能.
-#         - Description 2.
+#     - title: 
 
 # - title: Experience
 #   type: time_table
